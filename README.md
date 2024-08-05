@@ -21,7 +21,7 @@ To start using the scripts, clone this repository to your local computer or Linu
 
 ```bash
 git clone https://github.com/mikhail-kirillov/LinuxMonitoring-v1.0.git
-cd LinuxMonitoring-v1.0
+cd LinuxMonitoring-v1.0/src
 chmod +x */*.sh
 ```
 
